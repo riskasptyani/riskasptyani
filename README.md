@@ -16,7 +16,7 @@ I enjoy building data-driven solutions, developing scalable data pipelines, anal
 💼 Former Data Engineer Intern  
 
 📫 Reach me:
-LinkedIn: www.linkedin.com/in/riskaseptyani
+LinkedIn: www.linkedin.com/in/riskaseptyani  
 Portfolio: https://bit.ly/portfolio-riskaseptyani
 
 ## 🛠️ Tech Stack
@@ -58,8 +58,8 @@ Tech: Python • TensorFlow • Keras • OpenCV
 
 
 
-🤝 Let's Connect
-💼 LinkedIn: www.linkedin.com/in/riskaseptyani
-🌐 Portfolio: https://bit.ly/portfolio-riskaseptyani
+🤝 Let's Connect  
+💼 LinkedIn: www.linkedin.com/in/riskaseptyani  
+🌐 Portfolio: https://bit.ly/portfolio-riskaseptyani  
 
 ⭐ Thanks for visiting my profile!
