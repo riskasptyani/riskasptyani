@@ -4,8 +4,8 @@
 
 # Hi there, I'm Riska Septyani 👋
 
-🎓 Informatics Graduate from Gunadarma University
-💡 Passionate about Data Engineering, Data Science, Data Analytics, Machine Learning, and Artificial Intelligence.
+🎓 Informatics Graduate from Gunadarma University  
+💡 Passionate about Data Engineering, Data Science, Data Analytics, Machine Learning, and Artificial Intelligence.  
 
 I enjoy building data-driven solutions, developing scalable data pipelines, analyzing complex datasets, and applying machine learning to solve real-world problems. I'm continuously learning new technologies and always excited to collaborate on impactful projects.
 
