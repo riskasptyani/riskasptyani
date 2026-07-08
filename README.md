@@ -11,9 +11,9 @@ I enjoy building data-driven solutions, developing scalable data pipelines, anal
 
 ## 🚀 About Me
 
-🌱 Currently exploring Big Data, Data Engineering, AI, and Machine Learning
-📊 Interested in Data Engineering, Data Science, Data Analytics, Machine Learning, and Artificial Intelligence
-💼 Former Data Engineer Intern
+🌱 Currently exploring Big Data, Data Engineering, AI, and Machine Learning  
+📊 Interested in Data Engineering, Data Science, Data Analytics, Machine Learning, and Artificial Intelligence  
+💼 Former Data Engineer Intern  
 
 📫 Reach me:
 LinkedIn: www.linkedin.com/in/riskaseptyani
